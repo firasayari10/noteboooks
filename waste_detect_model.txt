@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/firasayari01/waste-model-50epochs
+
+
+ps: voici le lien au lieu de le telecharger j'ai enregistrer une version sur kaagle du coups l'avanacement est seulement visible dans ce lien pas dans le notebook lui meme 
